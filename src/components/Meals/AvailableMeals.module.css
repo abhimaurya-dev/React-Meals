@@ -7,10 +7,12 @@
 
 .mealsLoading {
   text-align: center;
+  margin-top: 5px;
   color: white;
 }
 
 .mealsError {
+  margin-top: 1rem;
   text-align: center;
   color: red;
 }
